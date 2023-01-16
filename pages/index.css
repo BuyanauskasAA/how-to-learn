@@ -23,6 +23,9 @@
 @import '../blocks/cards/__image/cards__image.css';
 @import '../blocks/cards/__title/cards__title.css';
 @import '../blocks/cards/__description/cards__description.css';
+@import '../blocks/video/video.css';
+@import '../blocks/video/__iframes/video__iframes.css';
+@import '../blocks/video/__iframe/video__iframe.css';
 @import '../blocks/oakley/oakley.css';
 @import '../blocks/digits/digits.css';
 @import '../blocks/section-title/section-title.css';
