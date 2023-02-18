@@ -7,6 +7,7 @@
   * [HTML](https://html.spec.whatwg.org/multipage/)
   * [CSS](https://www.w3.org/Style/CSS/)
   * [Git](https://git-scm.com/)
+  * [БЭМ](https://ru.bem.info/)
 
 ### Планы по доработке проекта
   1. Перейти на технологию Grid Layout.
